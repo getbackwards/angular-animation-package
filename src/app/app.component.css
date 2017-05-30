@@ -3,3 +3,12 @@
   height: 100px;
   background-color: orange;
 }
+
+p {
+  padding: 1rem;
+}
+
+span[_ngcontent-c0] {
+  display: inline-block;
+}
+
